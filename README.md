@@ -14,3 +14,6 @@ Repository for Deep Neural Network course held in 2026/27 autumn semester.
 
 ### Better MNIST
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Deep-Neural-Networks-2026W/blob/main/dnn04_better_MNIST.ipynb)
+
+### PyTorch basics
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Deep-Neural-Networks-2026W/blob/main/dnn05_torch.ipynb)
